@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
+<h1 align="center">Hi, I'm Deepak Yadav</h1>
 <h3 align="center">Software Engineer | Full-Stack & Web-GIS Developer</h3>
 
 <p align="center">
