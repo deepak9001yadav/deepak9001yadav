@@ -66,15 +66,19 @@ As a Software Engineer focusing on Backend Architecture and Full-Stack Developme
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & DSA
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepak9001yadav&amp;show_icons=true&amp;theme=nord&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak9001yadav&amp;layout=compact&amp;theme=nord&amp;hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=deepak9001yadav&show_icons=true&theme=nord&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=deepak9001yadav&layout=compact&theme=nord&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <br>
+
+> 🏆 **Algorithmic Proficiency:** Successfully solved 500+ Data Structures and Algorithms problems across platforms like LeetCode, GeeksforGeeks, and CodeChef.
+
 ---
+
 ### 🐍 Contribution Graph
 
 <picture>
