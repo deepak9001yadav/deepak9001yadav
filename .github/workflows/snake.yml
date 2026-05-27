@@ -2,15 +2,17 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Har raat 12 baje automatically update hoga
     - cron: "0 0 * * *" 
   workflow_dispatch:
+
+permissions:
+  contents: write # This line is crucial for pushing the SVG to the output branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       
       - uses: Platane/snk@v3
         with:
