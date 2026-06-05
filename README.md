@@ -81,8 +81,6 @@ As a Software Engineer focusing on Backend Architecture and Full-Stack Developme
 
 ### 🐍 Contribution Graph
 
-### 🐍 Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepak9001yadav/deepak9001yadav/output/github-snake-dark.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepak9001yadav/deepak9001yadav/output/github-snake.svg?v=1">
